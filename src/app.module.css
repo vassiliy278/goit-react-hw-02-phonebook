@@ -1,0 +1,22 @@
+.wrapper {
+    font-family: arial;
+    color: #eee;
+}
+.formWindow {
+    border: 2px solid #333;
+    padding: 20px;
+    width: 30%;
+}
+.list {
+    list-style: none;
+    font-size: 20px;
+}
+.deleteBtn {
+    margin: 0 10px;
+}
+.contactForm {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+}
